@@ -7,11 +7,7 @@ I/O redirection, background processes, and batch file input.
 
 ## Folder Structure
 
-OS_Portfolio/
- └── task1/
-      ├── main.cpp
-      ├── help.txt
-      └── myshell
+OS_Portfolio/task1/main.cpp - help.txt - myshell
 
 ## Features
 
@@ -23,6 +19,8 @@ OS_Portfolio/
 
 ## How to Compile
 
-```bash
+write in the termeinal:
+
 cd task1
+
 g++ main.cpp -o myshell
