@@ -1,0 +1,20 @@
+MyShell - Simple Unix Shell
+
+Supported commands:
+
+cd [dir]       : Change directory
+dir [dir]      : List directory contents
+environ        : Show environment variables
+set VAR VALUE  : Set environment variable
+echo TEXT      : Print text
+help           : Show this manual
+pause          : Wait for Enter
+quit           : Exit shell
+
+Supports:
+
+- I/O Redirection: < > >>
+- Background execution with &
+- Batch file input
+
+Author: Moahmed Gdoura
