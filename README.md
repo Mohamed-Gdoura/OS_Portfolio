@@ -23,4 +23,6 @@ write in the termeinal:
 
 cd task1
 
-g++ main.cpp -o myshell
+g++ main.cpp -o myshell "Compile"
+
+./myshell "Run"
