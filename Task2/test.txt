@@ -1,0 +1,20 @@
+Hello world
+This is a simple test file
+This file is used to test word counting
+Word counting with threads
+Threads run in parallel
+Parallel programs can be tricky
+
+Hello again world
+This is another line
+Another line means more words
+More words means more counting
+
+Linux supports multithreading
+C plus plus supports multithreading
+Threads should be used carefully
+Carefully written code avoids bugs
+
+Hello world hello WORLD
+Counting should be case insensitive
+Case insensitive means hello equals Hello equals HELLO
